@@ -1,0 +1,13 @@
+C:\Users\Faith\Documents\My Projects\Visual studio\NorwegianCrawlerV2\NorwegianCrawlerV2\bin\Debug\NorwegianCrawlerV2.exe.config
+C:\Users\Faith\Documents\My Projects\Visual studio\NorwegianCrawlerV2\NorwegianCrawlerV2\bin\Debug\NorwegianCrawlerV2.exe
+C:\Users\Faith\Documents\My Projects\Visual studio\NorwegianCrawlerV2\NorwegianCrawlerV2\bin\Debug\NorwegianCrawlerV2.pdb
+C:\Users\Faith\Documents\My Projects\Visual studio\NorwegianCrawlerV2\NorwegianCrawlerV2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Faith\Documents\My Projects\Visual studio\NorwegianCrawlerV2\NorwegianCrawlerV2\bin\Debug\WebDriver.dll
+C:\Users\Faith\Documents\My Projects\Visual studio\NorwegianCrawlerV2\NorwegianCrawlerV2\bin\Debug\WebDriver.Support.dll
+C:\Users\Faith\Documents\My Projects\Visual studio\NorwegianCrawlerV2\NorwegianCrawlerV2\bin\Debug\WebDriver.xml
+C:\Users\Faith\Documents\My Projects\Visual studio\NorwegianCrawlerV2\NorwegianCrawlerV2\bin\Debug\WebDriver.Support.xml
+C:\Users\Faith\Documents\My Projects\Visual studio\NorwegianCrawlerV2\NorwegianCrawlerV2\obj\Debug\NorwegianCrawlerV2.csprojAssemblyReference.cache
+C:\Users\Faith\Documents\My Projects\Visual studio\NorwegianCrawlerV2\NorwegianCrawlerV2\obj\Debug\NorwegianCrawlerV2.csproj.CoreCompileInputs.cache
+C:\Users\Faith\Documents\My Projects\Visual studio\NorwegianCrawlerV2\NorwegianCrawlerV2\obj\Debug\NorwegianCrawlerV2.csproj.CopyComplete
+C:\Users\Faith\Documents\My Projects\Visual studio\NorwegianCrawlerV2\NorwegianCrawlerV2\obj\Debug\NorwegianCrawlerV2.exe
+C:\Users\Faith\Documents\My Projects\Visual studio\NorwegianCrawlerV2\NorwegianCrawlerV2\obj\Debug\NorwegianCrawlerV2.pdb
